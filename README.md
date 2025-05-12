@@ -1,4 +1,4 @@
-![alt text](/springboard/ReadME_Files/MainImage_A1-9.jpg)
+![alt text](/MainImage_A1-9.jpg)
 
 # Predicting Coronary Heart Disease Risk Using the Framingham Heart Study Dataset
 
